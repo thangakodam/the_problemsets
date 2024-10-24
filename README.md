@@ -13,6 +13,8 @@
 <ol start="0">
   <li><a href="https://github.com/thangakodam/the_problemsets/tree/trunk/problemsets/1768_merge_string_alternately">Merge string alternately</a> ©️ </li>
   <li><a href="https://github.com/thangakodam/the_problemsets/tree/trunk/problemsets/389_find_the_difference">Find the difference</a> ©️ </li>
+  <li><a href="https://github.com/thangakodam/the_problemsets/tree/trunk/problemsets/28_index_of_first_occurrence_in_a_string">Find the index of first occurrence in a string</a> ©️ </li>
+  <li><a href="https://github.com/thangakodam/the_problemsets/tree/trunk/problemsets/242_valid_anagram">Valid anagram</a> ©️ </li>
 </ol>
 
 
